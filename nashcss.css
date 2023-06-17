@@ -5,7 +5,8 @@ h1{
 }
 
 body{
-    background-color:rgb(72, 255, 0)
+    background-color:rgb(72, 255, 0);
+    font-family: Marker Felt, fantasy
 }
 
 h3{
@@ -20,4 +21,10 @@ p{
 span{
     background-color:black;
     color:white
+}
+
+
+
+li{
+    color:rgb(98, 60, 10)
 }

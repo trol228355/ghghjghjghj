@@ -1,7 +1,7 @@
 <html>
     <body>
         <head>
-            
+            <link rel ='stylesheet' href='nashcss.css'>
         </head>
         <header>
             <h1>Питоно-строительство</h1>

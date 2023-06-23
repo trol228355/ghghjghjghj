@@ -1,3 +1,7 @@
+h3{
+    color:rgb(235, 238, 141);
+}
+
 h1{
     text-align:center;
     color: rgb(235, 238, 141)
@@ -15,7 +19,9 @@ h2{
 }
 
 p{
-    color:rgb(235, 238, 141)
+    color:rgb(235, 238, 141);
+    padding-left:25px;
+    font-size: 20px
 }
 
 
@@ -26,9 +32,7 @@ span{
 
 
 
-li{
-    color:rgb(235, 238, 141)
-}
+
 .cartinci img{
     width: 25%;
     padding: 5px 0;
@@ -37,4 +41,21 @@ li{
     position: relative;
     align-items: center;
     align-content: center;
+}
+
+
+ul{
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
+}
+
+.geniy{
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
 }

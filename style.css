@@ -29,3 +29,12 @@ span{
 li{
     color:rgb(235, 238, 141)
 }
+.cartinci img{
+    width: 25%;
+    padding: 5px 0;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    align-items: center;
+    align-content: center;
+}

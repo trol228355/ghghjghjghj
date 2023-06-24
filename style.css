@@ -4,24 +4,29 @@ h3{
 
 h1{
     text-align:center;
-    color: rgb(235, 238, 141)
+    color: rgb(235, 238, 141);
+    font-size: 45px
+}
 
+main {
+    padding-left:45px;
 }
 
 body{
     background-color:rgb(6, 6, 42);
     font-family: garamond;
-    padding-left:45px;
 }
+
 
 h2{
     color:rgb(235, 238, 141);
-    text-align:center
+    text-align:center;
+    font-size: 28px;
 }
 
 p{
     color:rgb(235, 238, 141);
-    font-size: 20px
+    font-size: 22px
 }
 
 
@@ -29,9 +34,6 @@ span{
     background-color:rgba(186, 142, 28, 0.784);
     color:black
 }
-
-
-
 
 .cartinci img{
     width: 25%;
@@ -50,6 +52,7 @@ ul{
     padding-bottom: 15px;
     color:rgb(1, 10, 56);
     font-size: 20px;
+    width: 15%;
 }
 
 .geniy{
@@ -58,9 +61,41 @@ ul{
     padding-bottom: 15px;
     color:rgb(1, 10, 56);
     font-size: 20px;
+    width: 10%;
 }
 
 .big{
-    height: 400px;
-    width: 650px;
+    height: 300x;
+    width: 450px;
+}
+
+.uul {
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
+    width: 29%;
+}
+
+.downl {
+    text-decoration: none;
+    background-color: aqua;
+    border: 2px solid aquamarine;
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    padding: 20px;
+    width: 100%;
+
+}
+
+footer p {
+    color:dimgray;
+    font-size: 15px;
 }
